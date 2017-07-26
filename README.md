@@ -1,2 +1,2 @@
-# DatalicipusTask
+# DataliciousTask
 Assignment Submit
